@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"pl.poznan.put.cs.io.errors.processors","l":"BFSProcessor"},{"p":"pl.poznan.put.cs.io.errors","l":"Controller"},{"p":"pl.poznan.put.cs.io.errors.storage","l":"DataInput"},{"p":"pl.poznan.put.cs.io.errors.storage","l":"DataOutput"}]
